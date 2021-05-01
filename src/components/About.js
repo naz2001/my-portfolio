@@ -2,7 +2,6 @@ import React, {  useEffect ,useState } from "react";
 import sanityClient from "../client.js";
 import treecanopy from "../treecanopy1.jpg";
 import imageUrlBuilder from "@sanity/image-url";
-import BlockContent from "@sanity/block-content-to-react";
 
 const builder = imageUrlBuilder(sanityClient);
 function urlFor(source){
