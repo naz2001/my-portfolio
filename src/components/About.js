@@ -21,7 +21,7 @@ export default function About() {
             .catch(console.error);
     }, []);
  
-    if(!author) return <div>Loading...</div>;
+    //if(!author) return <div>Loading...</div>;
     return(
         <main className="relative">
             <img src={treecanopy} alt="Treecanopy" className="absolute w-full" />
