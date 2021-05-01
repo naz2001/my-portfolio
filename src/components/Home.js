@@ -4,9 +4,9 @@ import image from "../mountains.jpg";
 export default function Home(){
     return(
         <main> 
-            <img src={image} alt="Green Trees" className="absolute object-cover w-full h-full"/>
+            <img src={image} alt="Mountains" className="absolute object-cover w-full h-full"/>
             <section className="relative flex justify-center min-h-screen pt-12 lg:pt-64 px-8">
-                <h1 className ="text - 4x1 text-white font-bold cursive leading-none lg:leading-snug home-name"
+                <h1 className ="text-5x1 text-white font-bold cursive leading-none lg:leading-snug home-name"
                 >Hello. I'm Nazeeya.</h1>
                
             </section> 
