@@ -33,7 +33,7 @@ export default function Resume(){
             
                         <h1 className="text-3xl  ml-7 font-bold mb-2">Hack Club Member</h1>
                         <h2 className="text-2xl ml-7 font-semibold mb-3">November 2020 - Present</h2>
-                        <h3 className="text-2xl ml-7 font-semibold mb-8">As an active hack club member, successfully completed a project to build a pesonal website using React.
+                        <h3 className="text-2xl ml-7 font-semibold mb-8">As an active hack club member, I successfully completed a project to build a personal website using React.
                         </h3>
                 </div>
                 <div>
