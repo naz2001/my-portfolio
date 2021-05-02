@@ -37,6 +37,7 @@ export default function Resume(){
                         </h3>
                 </div>
                 <div>
+                    
                     <img src={teamEverest}
                      alt="TeamEverest"
                      className="rounded ml-10  mb-12  float-left w-32 h-32 lg:w-64 lg:h-64 mr-8"
