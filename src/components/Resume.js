@@ -2,6 +2,8 @@ import React from "react";
 //import treecanopy from "../treecanopy1.jpg";
 import teamEverest from "./teameverest.jpg";
 import hackClub from "./hackclub.jpg";
+import  Lifelab from "./lifelab.jpg";
+
 
 export default function Resume(){
     return(
