@@ -50,6 +50,21 @@ export default function Resume(){
                          I developed 20-days worth of curriculum  for children of grade 3 to 5.
                         </h3>
                       
+                </div>
+                <div>
+                    
+                    <img src={Lifelab}
+                     alt="Life lab"
+                     className="rounded ml-10  mb-12  float-left w-32 h-32 lg:w-64 lg:h-64 mr-8"
+                    />
+                </div>
+                <div  className="col-span-4 text-justify mr-12 ">    
+                        <h1 className="text-3xl  ml-7 font-bold mb-2">Internship - Content Writer</h1>
+                        <h2 className="text-2xl ml-7 font-semibold mb-3">April 2021 - May 2021</h2>
+                        <h3 className="text-2xl ml-7 font-semibold mb-8">Volunteered at WOSCA's Life-Lab Science Program. I created student-centric learning resources. 
+                        This involved lesson planning activities and assessment building for grades 6-8.
+                        </h3>
+                      
                 </div> 
              </div>
             </div>
